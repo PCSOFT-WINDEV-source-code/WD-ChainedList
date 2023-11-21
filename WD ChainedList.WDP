@@ -1,0 +1,153 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD ChainedList
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Chained List
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD ChainedList
+    internal_properties : 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
+    configuration_id : 1724599645945233117
+    type : 1
+    generation_name : WD ChainedList.exe
+    version :
+     version : VI200041K
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 2
+ elements :
+  identifier : 0x4ac601f500179015
+  elements :
+   -
+     name : Global procedures of WD ChainedList
+     identifier : 0x404702d91811d78f
+     internal_properties : CAAAAAgAAADgXtjE41jQi6LzFq8XGrLJTD27Y4YhQtbWDNZ0pavhxwnpKVzfYX5g7yuVYyPdpRvlbQ==
+     physical_name : .\Global procedures of WD ChainedList.wdg
+     type : 7
+   -
+     name : cList
+     identifier : 0x4047045303d0925b
+     internal_properties : CAAAAAgAAACW/P4igf62uRxhWH1VYcRf7sE9vSI1LZXNDL1Lwn6eqgaEts9pn7ASXdnDPcU7xzmDgw==
+     physical_name : .\cList.wdc
+     type : 4
+   -
+     name : TEST_FEN_WIN_main
+     identifier : 0x472f42060004aa7e
+     internal_properties : CAAAAAgAAAB716PnxIGpsovsw8TM6V1wE1aSyoYCHl9yQqyWFQIQGJQIzDnyFimN2ES+Ovr2gnZe5g==
+     physical_name : .\TEST_FEN_WIN_main.wxt
+     type : 17
+   -
+     name : cButton
+     identifier : 0x4047045d2ef8b6ab
+     internal_properties : CAAAAAgAAABYNgAcq9BYA9o7bmdfVvr5lOXjK85YWNSpzV6XiddF4y2VXZiXqcYop5MN66sl3dM9xQ==
+     physical_name : .\cButton.wdc
+     type : 4
+   -
+     name : WIN_main
+     identifier : 0x404704233af3de8b
+     internal_properties : CAAAAAgAAACoppCMO2BIU2qL/pcvx259AGPP1xTWtmLXGEDEVBxwULQa3CkHOVa4N+Pd21uVbWOttQ==
+     physical_name : .\WIN_main.wdw
+     type : 2
+   -
+     name : cNode
+     identifier : 0x4047044a4a9a755d
+     internal_properties : CAAAAAgAAADEQiwIt+zE584vArsDLJIZKJXnP7ZwMXDLoVAt832XeV9D936zVWpMm4dxT9cJ8efRUQ==
+     physical_name : .\cNode.wdc
+     type : 4
+   -
+     name : WinDevMessageBox
+     identifier : 0x46c5844300f07cc5
+     internal_properties : CAAAAAgAAABi2FpOfSqCnaRrfgmNkI/G/KkL41jbr8ixUTJSdaFr/fPvmtId2+hIBT2nEZFPK51n7w==
+     physical_name : .\WinDevMessageBox.WDW
+     type : 2
+   -
+     name : WinDevDialogBox
+     identifier : 0x46c5844700f88c17
+     internal_properties : CAAAAAgAAAAvKwcbqNVdDtseESycZxSRldQstAMmw/Ot9guxEAYUHJQM7Z9a7glreKAa5q4i3tI6Og==
+     physical_name : .\WinDevDialogBox.WDW
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+  - fr-FR
+ wd_style_sheet : ".\\WD ChainedList.sty\r\n.\\WD ChainedList.gab"
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      // Manage the languages
+      CONSTANT
+      	_FRENCH_ 	= 5
+      	_ENGLISH_ 	= 3
+      END
+      
+      SWITCH ProjectInfo(piProjectName) + “_TEST”
+      	CASE “WD ListeChaînée_TEST”:
+      		Nation(nationFrench)
+      	CASE “WD ChainedList_TEST”:
+      		Nation(nationEnglish)
+      	OTHER CASE:
+      		dbgAssert(False, “Unknown value”)
+      END
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD ChainedList
+     identifier : 0x4ac601f500209092
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text : {}
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

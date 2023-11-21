@@ -1,0 +1,64 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : cButton
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x10eed838014d20f5
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  internal_properties : CAAAAAgAAACFfuwT7CLRQppb4E/pcpOEsHyhmEoYQ8x1yHi5Wy10/v6YaeBYXOMDjTD54DM6bb5vEJLGzFfoH/SZ46F7XX81mFGfsx9qrG0=
+  type_code : 10
+  p_codes :
+   -
+     code : |1+
+      cButton is Class
+      	m_sNameOfControl 	is string
+      	m_sCaptionFR 	is string
+      	m_sCaptionUS 	is string
+      	m_nButtonType 	is int
+      END
+     type : 131072
+  procedures :
+   -
+     name : Constructor
+     procedure_id : 1220150284115648757
+     type_code : 27
+     code : |1-
+      Procedure Constructor(name, stcF, capU, type)
+      
+      // Stores the variables
+      :m_sNameOfControl 	= name
+      :m_sCaptionFR 	= stcF
+      :m_sCaptionUS 	= capU
+      :m_nButtonType 	= type
+     type : 589824
+   -
+     name : Destructor
+     procedure_id : 1220150284115714293
+     type_code : 28
+     code : |1+
+      Procedure Destructor()
+      
+     type : 655360
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : cBouton
+resources :
+ string_res :
+  identifier : 0x403e35231b4a8ba0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : " "
+      fr-FR : " "
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

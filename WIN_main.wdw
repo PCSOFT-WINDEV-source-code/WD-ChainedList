@@ -1,0 +1,684 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_main
+ identifier : 0x20eed836191c1b1b
+ internal_properties : CAAAAAgAAACzeJ6n7S0rFzOJDXIuDm5XLXYxallML5TjHtuVSbiGrzIIW3mVBePujEeSycFjBhH6rwxjtsljSIYqk2JBljz4fGJEoIH8JA6/a/pQ/7NvU/hUc0Axa26jw69tXEM8Pj63MfXZPpkFNOBoHmuRUjc0sbwXp6h0JvrrTiEuNUMXX286XYR2Wbw1XoiONr+EAMXP9NOGI/kPlwfdG2Vtd8mFSIP7AzWL8G8Z4QYTM4452OUGDuK53ZRnWMndgqXU0pI3abM85K0xbHndxSAVKw49XQ9ZWXOTBKyTg76eY5DeiE2i+uvasXIzj/HCPAnUev+wno/YWCQMtS34WfKNvw5w5PmA2/ut2rour/lc848EY6WEvprSEeKVLKzzJ1wuVtgbsmCmzmFrYegQKuRewlykVbcXXBlpNmzTPGYEuW+2J+D00DCpSaJ/AizNFzeUrMGOzfiOv/N/K4L/dZGau4m/hB8IuTbaacsp27w0h7U5gWSKjElYV+4J6APdZ+FMap6nq2F3vBQG6y6q+lGoKAm7tX0CC9uhxmcad/Y94QXpPlFAh/5EMtbar2iu4oFznfVLVJ65scmGlpVjdM4M/FuAY5aHWXFbBF7eb6eU5tjK3IWE1rpY/htxDsUnaBbJVY8AhVjO4trlw7m6lHe04TlnQDEeRLDEan2Liu/+Cz/HDhczZt1TSaV9hoVgHTGLZZJjcD0nOwFETrkefvvVMm5+F+YhacNYsvZLA/3O//TPO6RIVE2GwB2dZxo6xISAOPWtRpAQRtKvOrnV1YP/oQ1DKRnyhbopVilM6T24eUCLf1x7plDjp5SFCMmGK9nEBHilqjTH9CjKrv7fL/J1XTE9hj7P++OcoNt3kIEOWrKHEPVGqEwIpDomF8yBVrGwgLcZ1HAPUh0iXPJ7y5HKlqeaHwClmfJpmgOtQKf/nK8Hc2xfo4ZsaKfSRHqXL0rD2WTN6rydRvgvSXaoem1T5MXZsviJ/ugGrrFDRtaFlNbaahUR8RnfglvdGi5kRwHDjOdAjRbASGD0Ut84wi1s4yn4b4wFSfXeI4aR+cigMqU4A8mF54TCNy+DRGSg+Mt23xJoKTGbAPkdmrJ65yQxLJc7TZjSSHTG1FU1rG70ym+mISaIiO1rx20FaCA/I1JZPe0blZ9PE5jBH7fbc9KJo2h/libWQeQm9RslAROx3N2kO/TJvkk=
+ properties :
+  width : 478
+  height : 410
+  widthClient : 476
+  heightClient : 378
+ controls :
+  -
+    name : BTN_Help
+    identifier : 0x20eed836191d1b1b
+    internal_properties : CAAAAAgAAABgi1zVUYRBIYpLm75r2DHeUNVkVHdN7lFdLGMICIz7BsMmEioMbtjCLMpnY9AEvOOw2pdVsJWnnsFDMZuG+pt6U5BnKiqydQm3Ui1B1nQkS/RB3O4SLaAMrX11p9OQpANROFm2Z2d1StzDo0jXTFq+I+wnSFtYeSxgguvIiBHwHAVhS0J+xlAB8qvrq1s2coqhEMHeNk8irGRJ1sq0ZeBDN4C0dxqEQgS4S1TQuEkWTbH2K2mTfsm2N/K7oaE1xll3CBOSpup6WuZgcpq/DFaItjbykt+wcW6pJJL8fiQ9bMmGb5Pq/O1qeIic+I8XhfaMCy+nDcsgrs4vh5eOt0coDiZR5r8/BdIZrEwmG/KmEOS8ZcWX0niLWQJPCVTCoa5naYMW1nOL2oTt/PlCLwb1rixkD3p+CD7iolpHWUsaEfx8Kqyhrxmj/OYnyZmIByRA8j8ZPza1xupqLQAE6V5UIi2YcGNMhzIdF0AzGj4NDQlTm9kna9wi3kif9qogB+gJHJUM+ej8WJ5k7Q32q0w4bpzyE2eW/xz4dkDvqH39FIutxdZXo5KwCFVsu3HFhPQRTrV7mifcVgkq1TvC8qYaqSeoaB045B1UZyl5EWIVabr3WLVBbeG9Cx7bxuX2nycnELzOxmL1jSs+CAfJc/KSiW2YlZyXSv/63Fe3rpnqX7RtRk3Q7EA5mqUf+zi02tLcHpx02UeXu3cMVVnSBV4/BBSlKMCjxXLzzf7+EWcBFg+rtLuT/oM6gYgieHQZLgOSPzS+To5n29kLhrPwMdofqEphMhJhGOdMjY0hOUbxbk682eZRVLvONMVLKpRkGRpGmTfkXJftj9MLpHNuqmksxB7ZMlj25C2e6BGN7b2/YDgIyTLHC5ckd5gqaERKLWSVicYw4yW6lnpBzBZT+2C2wGaP5ouYphSJnO1UN3K50CXGO4akJoNXh1j6Me/Yj/CsAxm+zXRduVYEYj0CFPgQwCWVG0gFJBfrSrH7fKyX9cT2SxiQQw7gsXt9YCEh5GduBh/GhOr9VOBHK0bFJkkyZUpMDrN797U9jGD0Z+BCxzxmljSLYvKJ36x5gst4EOXGyB4GMbRcBHp9vm4PXhIXYQu5mJoLv5cAGRCYG444IJwk8vPhM0KzvTfHcDyTcOSVIE63nelulxwcNJsnQH+xhsd30EsCBKgESx+4gAEfOdARPwuZ8aYKWqdSFDG1I6EmX6Zut634HS1CqEellt9sbV2Z7/IHVHjZ2byzVd3vSV8rthptlJ0wF7/p47i3UtyB73E/E4SjzVqZUlOeDU2oOHwuTez8mjaYkyBx8Dk+jHwh/ZS8mdZtaP6Da3h6lO9TC9jxSZO6pKQ7Nxx6
+    properties :
+     x : 6
+     y : 77
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACrjc2VI5nnxtHat7jk7y5/+QuO/FY3pzOhWPM+eFVJUUtegCANqt2R0plvZnTKw7zJPLjk5gol+YGQO6xBH+sHrkZnilpXh8nrpVVDr/nN1VTOl54z6nkYW3sI48AoiHNyLvK411f943P2F0w=
+        code : |1+
+         STC_TEXTAREA..Caption = <§$0002§>
+         // Tip: the message number is stored in the note
+         // Tip: the message number is stored in the note
+         STC_TEXTAREA..Note = 2002
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Menu1
+    identifier : 0x20eed836191e1b1b
+    internal_properties : CAAAAAgAAAC2V5WCAmKTh1zoLBAomlVAcfeJxG9AOs63iAnwKimiqE7V1lGVqe29bctbDtg50LO6OwBVOVbp5Rn6UwrIwY+xmjEd9vhkAoITbTOoYDEQx7/grSalxsifn98ccCJTBGUDId2agrsOJiXCu2njMp8cy8pJ0y7XVWoEvK6XY6yeiZpnua9pOjnruOEVfjluY9s4w+5gzDJTnjpZK3EUtADKFX/z/fk3XzBSszSkcd54ZxaCrQPnMYc9+kEm7wJiLwexYCXj09YSR8HeuzQLCRmoZPV4tJpAP6qYl5QEFL+liw+oScWg2ArncNANrlt4gR5FAmo9uMpctEUJhJVCfIBC0JVi8fZypaeq8TijAeafv0TIkxuPKFhOol3xgEC9yIR79Is4wWEPYbShduCfGrczWidRvEGTx0SlVA7CD70rYK/qwI8v7H0FTiTu7OnlPl8XGxyJ1Qv06kMRzZxXZheupO1WocgCdaY1wu3QAfSyCJ+ZHwaRJi0zvjZwADjPAIRnCa1KAvRUxg/iL8pYivyaBrguTDHKrKzRUd51sxrGRJXNuVJeweY5Bym1J/1iEEqimjiIOswq8fMtcfbemZ16IZXMxqiPcYdi65mtjTMPuVz8nUsB48Rri0AjvfhHL6i+pof+TN38+O4WcAgC7Ibx9d89bwJzMqFx7piwjWA05AcaFC+zzTGjQ0NKN+iaG1Qldk3iM3t8wqwfpKKYwHmHyRhfH+t0qaDI/7JTpfNLDafpXvhfZlWP+MRrZu/J6NYAIeopeCcA3DlxvrNfdPewMd6/RGnjCPd5q3UkuewHYol/4hFWSUD3H8I/1NLjYdE4yqM+Vhz6Qoqz5EtrR68AxcqeNJdvYCODDTOK9NcMzN0/icvmgNmaHAUdtpfEVqXkZ1looyzC2/JfYUcHuZ2pyHmZjD73YluTBt/S4P08wQOoxyDVQCRdp1G5L7G1FTSIahMqn1tLGeHCH0nRUXS3EVS0mgbovEDdtvfc7q58tiPeJnFnIIdKosz0NNzVdIMuSxiapT8CZ88ariD4+HcduxKhH2k2+pWcEZFFlQ4/3ib/zU+pJynsZ5pu1zpKViiTlfyiOwrkWGfHkB/HV0k6LP6Ai+yx3aU5c0QVMWCLVj2gZ8964nPSgLYjhc6St05OiEcIlSKMYnyBc8ngQ+B/w1fxsZcjpnCzCIPYflnnoSHnrp4PsEKGt/ceOl7isryleF4et+TA9B9/tsjiUD7xq0QZETXgOZtbB2PzDh30dfH2HTOjgcEL8uZvdv1OXdK39X0vOn0xYzXRT2HnZ94UvXNNQqx4Z7/in9nYXIY5Bpwp08z8xD1OfaEvbvZqc4Gh4g1luoHKbCnl1dzzcI+dsA==
+    properties :
+     x : 6
+     y : 107
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ClickMenu(1)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Menu2
+    identifier : 0x20eed836191f1b1b
+    internal_properties : CAAAAAgAAABLOUt8ZP0ekb7I3UZOqCcV1g32eoo/R6zZrIOVBMTj6ioRfyiGjZHqFIdU/NkcRbJO5Y1WmFFFieEtlEvEJ4D4E0wft8sMK8+JPBa+XzWkZGjx3AMYeKTYJD5yHXWGYEa7vhJkHMHKzg/1MG+WpWinpyYMrdd43Dqb7RtbHcV7x5g8F3KCQgihSmAoYecCpthpkOmfIQpCY3ojDwDpUN74Ble87wlCwVcyRmkUitEJ69CVkQcjHGkvAXdT/P3RN2loEEnZions8DruFaUkPaVcFJZICbMpjRqams/+ZQ3gFCAerlFnSVrbeXElgQharDw4N0wTcfaDbt80tVUcU6VAeVikRD2JuNHGncSX+EMk9+CStImOU2gn6nBqNdUDy8TYWD88Q8H6TMAcMN1JKdDmGDuSxPUKvrJhVaIkOS8gHfIObQr8PrnUVwchDeenS7uq3gOYy/w+JRKiNjdD8pt9GxgVKFJgBeuARP/dK/KGNfNLTaOvF1s6k9lXPZafjrAlR06Tj5DfAfB8tMDg3YAF6yT4rDIoZJU1HfEQLTdrZkYAZPAE/o2cpkM16Me6Jk4zDGcNwck/4h8Hkys/L8iNzyltQkSywmUVVQkERVI+yDReYTnn0Oo+t80nk149vqgE6qSnycwupPqHcpE7wU5nucXJteeZ0eOPyyY3+H9HvfOOWX4qe1nV5MlzYOFNZqxFNtB5Ev0Wsa3C7AULCHkcxxcbe6lmLntN/DmrTiGlT52mMq2Q9nJZCIyN1vCrY+Hjau3s+9nVKaaD0gqumCQHoCNRtnvAqBUyRc3h1ulQHj2LcfIxgMiZYKq9q0rrwQuQvFBmZUysyppljAtL27wMNQoB86zFi2E7Cn8crrr3IaZgXJE8z+QhoGJHOiOc3h9tqH2ucV3DSqjWW8LoYJwA+nGg9Ud9enOXc31wtuHQj3pd2yLXdZVCA1+eTsDA87b3u8kI2pMd3BFR0zOw0G16FECveBnsDbb5qjQm4aE6oWvbe+4X1yo3nK8CzvRjVojt9nCa/QIroANt0bcPO2ooaZSwtqwYXQdpkxVy24HewryTZCrYIWH9DdHPLi/lIVm0UVOB7NkI54P95xhYaiTKxM2MwxhTRxU+bSmRI370PPMILrAdpY4Bc9+pqhl+KI6JjBYZiB/1EO7rc3WqzJYVDqLrWA6Zqz0yf4mHWsYGDAckvY/gte+3k3lSVnw2bV/gA7/1WQPEiKz8ljK0JEbZ9r17aPkZKoBn4bD8MNML9OHsinv2b55Q1jTKKQ8wJLWExSqW0XQib44eUZC6RfnfSiG1qvx+HTeds1MIjM2cLv6MY94tJL+gkusnXC+NnptGk6rHGkMNrtJiqg==
+    properties :
+     x : 6
+     y : 227
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ClickMenu(2)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SMenu11
+    identifier : 0x20eed83619201b1b
+    internal_properties : CAAAAAgAAADtRbO5tePIAWKDSchnw3ND+kxIvblMeCKO+AowlcFZA9rCXxUmXJgQLwwA/UtY9JyjoWVccDcjt+92ExHfJrEpefENjE/phJA7TD0vgB7y8s3SfQU6x0Ok6qxSwPDimnK19GBQCAxwq8NQ8h3L/bl7OVH2RHawYjNenHxjQm0Y+6sKGzsPtcA6HzMwinO/kQynylpS0Q/0QqsY2VcaeHUa+Rh9I6ix7sdiYlv43BJXppwBwH7j9NpaSL67fGroTs564nakDgqR2PRr7FX1sIQATRvA/ggVvX43y8CGArAGN2gfO8EzypLNPk44Bm7RyLqdRxGZS1P6dXj9z8TAktH6pcqinMQb+FNFYZfejdaq5jcaYYqQLVT8ipDTYT38F6KNLMg3KT2bs3D+zI7tTB6HNPCigQ2FvnHZ2sDcSFkMxxJ+og4xEBSZqE8OQITD3p8Qy6Gk6EG02UKOerxq4N8mRrgJ3RP/DXHalTjIAQjgq0UF9YJ8gEKqEI9oN7cAD7C102tSXmlKl8HOD76uA3a1SAWWmLfw4NHQQ40V6lmjS5FDBRQXcl3PkBq6YLtPxUp0jVySQ/NLl4a8f8TpKveSFHHjRPPfDd4ZDxwGopt2PeNLY2S4YzMZfefounuIOzhUv2C4yu9pr/bDZ9U9YHIoq39f8IieKN/hRobVV137jqe5RrnH+lzweYIeu0Y5aLkhycdTvj6NZK4mO0XpKVuiQoQpicbzccI5f9uiJV2uUGjb0i6MGYjf9Gn5FFw9jxXlGHeQpIPu1kuQPz2LBscrll7xLC0xg0Um6cPj8ZvFcNv8IcTzUwoMGzoq2oZo3fXkJZzCokKjpdQmQN+WCof/mGSgBcKmx21dGgwx2n63QF7X+hELRXAoQqM/JNURBPWPYcj1hrKv05UoBVMsEzn+N9C68NnR/EjVLFYAeQwpD9Z5cv9R9eePdVFLILx9jh/lVNKqD9FTYFJjemwnjjuePUk3WysKwb/NzzkvGcbVUSWqSoKSzUuzFp+uaN/DDna64uUglvP/tYsm7QGFs/nRuwyVsd5/cr7NiR2eURnvX4kNFn22Q3dUyrY8ROrc21+bSBEj0yJEUSclMDdE8aOqWTNhewZfIDCBQWeHsk6a4SGNqv90UPjuGDWDw5d4a4VtDEK//ILluVsiL0Ndet6vIMTrwaXeZ3sT4TbeP0xfi1gnolBECKQz1xsDfXUWcIClf3mrqCXQO+XmOjQ1Eu28UYLgmFnV8qmrpnjpFUAHh5GRcBoh0lJjgwpUG9nXHbLNZJms5OJJMVqBTo6Ix8uvzgrlgksFBTl/S3/W46kR8FfENHYwUa6AliHWYnJXOrGjuHKdq2cohqOIlRRqyuuFEtD80sJa6U2W7soTVA5HzXUQ6I8=
+    properties :
+     x : 6
+     y : 137
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACrjc2VI5nnxtHat7jk7y5/+QuO/FY3pzOhWPM+eFVJUUtegCANqt2R0plvZnTKw7zJPLjk5gol+YGQO6xBH+sHrkZnilpXh8nrpVVDr/nN1VTOl54z6nkYW3sI48AoiHNyLvK411f943P2F0w=
+        code : |1+
+         STC_TEXTAREA..Caption = <§$0003§>
+         // Tip: the message number is stored in the note
+         // Tip: the message number is stored in the note
+         STC_TEXTAREA..Note = 2003
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SMenu12
+    identifier : 0x20eed83619211b1b
+    internal_properties : CAAAAAgAAADWH7ty2cUKcJfY8dTmozsP/QP/4F6DE6y2uAtwdQexo7J8PsfammX1ivImYNkl0dhPWlU0kQOPzHfmlzYKOa0oYl9/CMt/FwNy8SlWH/ad7bVEI04Yo76fFE+HTo6K2IiRaKKNX0MGYQJ1LWLFMp9hT7PC/cTB35puXiq1cSkuPS0XIBp7OR07HPU1VnfCKxkz0638v4BKt5LD1zmyTdWd8X1WnzWPN5DlPNQKmxzNdVNuZ1+K7hUx/whhtwD0zzep0JzoUz2picsvSmrZYiOd72hUxNmbwUS1tWeAsSgniv+UZB8K10pkohpi2qw3BRDRP7DLx2gHM/HNzZZ5Wbt90MPbcHh0AN5MbKNyUBzD8s5RPOeV4nAlCecSiEtACiFOmDK6CI3XFa3vBf1Tb8SeJsekfgJNVKuwVRa+ZhVzufvCTf6cdQ3pHTTPix/93jjkXt0WIZTukpwqAsI2ElKq3VQXHlkci8yWh+0VXbzj0FNGpoy6wbHChjutXLOBfR1lc+y3gck9yJXfM4QVt3JmrqJ4HkDYR3O0a7J6XGHwR0knMzTkSDfPDwXMQzbyrj0ulxPBUKGr3S4g9qm+pkX1xjMBQ0OC2M0+j1Ru1z4VRN22S5g63xgdhxZYm671czCif9qevMN53+PztwAoO46+KZl8NbMHsMKRcEmppaevl5MWQEFREk2MYv3lZBjifDLC1AZ1n1K8oVO5Mu22Gc/pdnyl5xQVGeAMZGTkErgxELVqv26FjPYaKkgUiM74W13gDVQYrStsOaNqdoam2mCfSYONR3ToCnTamxG6rOETpxkiqCXHKOt7mVodxojB+q78R4XaZBKHmjZ/MGb5GGCesfFSFp0XsdBNSY4dM/6G3wiM2JQb0UqhIrHOiDQ3QtptSgMkfBcVglaMwnKk5Dy9g0sOyr6g8d+Gic9kX5+5DsQ8S8FuBLl6GDZGR+tBgFDxYJYLSt1/roPeMtHx2awp+N2D+qgjSyx9RYrrjCZ754GqH2cWl8KCYK52E5Yk5Vqg8t2Pprcl/kzukIUFu/g5lEpa9cTQFpbmfYXYtGYa7ZW1enlqI44twPQVrqOX2Cyrim8gjTaYvNFuIoekWuztqiqlDrMfkJ0TdP+dJHEBhE9pbXd5aa+xfmUSETu1hHIaOS7En9bTfw2EntRL7rqgqkogxHb8mReH/0nL6lD5VO7ZnFNIOyOMqg7cObIktn9pO1hCnAvzKsuxr2rJCV4HjMEy751frkm+s1Aq7sxAqoT4Mt5ei7P7t7PP0ATnWRqfyGsCJPhXcJSSAeuC0xH0ACUyZNHNVTFvn73bClo4sNM7kcbfgT4USQwJoPdVIpy/QKf04Wsbnq3MrPB1hz8Iq7YngtvYcp9Y3RQYHwgYzL5jXjApsg==
+    properties :
+     x : 6
+     y : 167
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         STC_TEXTAREA..Caption = <§$0004§>
+         STC_TEXTAREA..Note = 2004
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SMenu13
+    identifier : 0x20eed83619221b1b
+    internal_properties : CAAAAAgAAACvWYAPBJOr7RPLGsVhsT5bKbiKq/tHYDHnNZ6F0e3F1Xm1Ft8XOKJslxuC/ryMkEc8brM6o87pCagUAmpFk6F/kYgOs7Puk5wO6AIN5Wk2lfpa4rOd0zR2/o4ARSpVxZGJue0P8i7SShyRr/Q1B9MKDfYas3vv237Raq6SEyMTRRUQqLFK6MZI8SyiU7w7wmfW0srC6Nzktm+LHuoibiiVJ2p9zO2WLCMB47phWcz6+lgRZRLsWE4mk9nxiWIf9HYLXqnOAphYwehJURSYoa6yyClRX8Dtl51eUKQkE9HyQ4wOqNUrSUUzPe0m4oD3QrxcXG4gJYrezdKswo8dtMfe619+Byxv5zGJJSbQFWaSAnfukkn0jCdJzmNopx0tZeiJuxpWgiAPO/wKbMqMcLZ+xlrj+tfjWOPbmdH/5vW1X3eRiEacNvbSb5QP3wGLBytsW4m+OjRplCBK1aNlxgE/oJ4pT6r8EESItbszFGinlPuLcyI9EASPma1GSF1htpMNtXNhQzcULjucYxJZO6WQfxr0n3BaXx+qPwbAuNomk26UJ7lyq1SyCOXKg37Ed8JAAgoBxQhZicxhkHFhe77ZiyQFIQw3zAphKilw385WGB4ZVrBmoOJDClmuDaXHPMP07oPeJz1GKYWr+oGO7498iMn5C7nKYCU+tImZZvpjWqOYnfe1V0ohYMV+vEQ/S8YG+e4qbZYzLFhrYUng0dL7CmidDrYj7b/GHnPDQ6MW4Yzql8NPZVE+PbxwoZZQ/lbukbgRlnScTdZLnvyJgugaUFbBvfgSIfO/XkesSvlDGpmjwrPpu3uD4EMEtwyaJ5yMWteVU/ouIR50YVAk1vmy8NQoOLGikfY93/gZjyVnotfDYa/rbeJvajHNSqWMTXlB2PqRW9vO2xtTH6YoF1wzIGaw6NWKZJzh6t6ytxupN+bB4PH/d8PXJjS2XwVVlyLiS5bs3ch26QMpAt1UVOCOl9bTwqImqlvpJJfF2Y/C5OO7mNsRoJArADYYodn0eN/mg5fMmYgw8zTnnUTMF+ZmB4mT5hM74z75ooHtIBOeGhcFpxVc3P/GE9R4yMwAcFUxU1QZgCRqVSbf0cwN2WJjChN/rz3FXOxqHcdVpGrIiJnKUvDIdZiX6r5m+ro225GkY/xaG1H7KFx2sm/bY3yoqJ2VsjlqGQ4C6CwfGaCd6xQ7G/wFBO82tees/dXyyi+i/ZQF1Kr6fMjaAfw/0ZWeuB0GzmfvzAdw6eN01lv7L+UMERS4Ow5pZzPeeyI7wZzmZDjCLJt7EnNqxs8GbiepZMygInTUmc9Q9ZATum6XdBFKWNa0m66e3HkpHjs9jphaBT6Z2Z9QpADUa/37OXkCGGG77DL5q7HWsxzZH6d7MIT2WgMBpHII/CYEjvO5OWiWTAGwK7Yfgl9lKKfbaEYrI6U7JAA=
+    properties :
+     x : 6
+     y : 197
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         STC_TEXTAREA..Caption = <§$0005§>
+         STC_TEXTAREA..Note = 2005
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SMenu21
+    identifier : 0x20eed83619231b1b
+    internal_properties : CAAAAAgAAAA77JV5cvbJTtP2xXz+2c4g9ERRkCnGHF9mo5tmOh9sx9NEt/FBIb1c+cZxsM0UZc3GPHvpL6DmEqEj9B9JwJlWURaLgKBBnJHDoU7wIMEUl8EzUKqAL7P5NPUnjZLEjGGlGw0NYKDQMQlcPOyiHol9WQ7wLq9J7pH/nlYCAMJp/vaAuZIxLKQHMtscHJwjJ0IXTXxE5cSfjyXLowLyi3k66JL9c1NtMI8BGsMpEDWq0DaTaOv8NqEho/zdMb+l5E82KdZbPcq5eAqqaYqu+Lr26OwisJHQy+I4xGtIsyl81dTX+FH1VI6z3XbL9LINOagzRvPdEDsAoOxsko9R37tLyY0toSj5C3TO3Gmh6TgcPdqU25eKvwweaEH2DTby91DRA5Diu3lX65Uok3U+q/SVE57/7myx45IdRcI9cVQxCsZ9ZAY1MG6mrK/uQR2ZdZZ3AnUVDsO3hmHjIptO2R6UhNL+x6o5sUNR1yCsU8BiN8Kk5dtIOQiHLMXXOkewbrJAG8CzlZIPGrRF1oa6nT0ank2xPKwKPRImTGmU0C3S/lJgTJVxIUP6Hq7PSfKif/tVPyb/XQeJuATNVJMJe83375EKw6hJMZMUPxjqfTSLKnV1MnDHQ0qa9/O0mC1RS8MTIa2EVnqVeG+K1aD9G5/vvhCScniLBmzn+XNVOVhOvabzdrrbF32Sd0icStVi0QvRCHZy8K5By4ZRW5uey7Dk3yyS4rV0xA40q59B7k7HpxbzZBX1sgp8BT8MKdVuOJq17xC6lkH3CXrsgzYfr7tuQAsLOcWftph3Fde2vGgHlXsRkX1fw9T6t8yjdCao7lCyCGjLNR0wicubCEz5qF2DpHOn/DmmVns69jmwbxDSOK48vyeSHBcZ3f/3LNFnm8O1OwlAK6kcWjyxdiYix+wo/1fDhX41c3fpZVSeitYih/V58B8e18v0/KmBKBnTRpNCqJA7BrJwKTE1aQG1Z9VSZDmpwDgb8enY5goMuR9SXBdxegygIsFSgoqrn4hxQi4MFdgQO23hh7m7wJqnViCHQXBgIcvQDqf7soVUBUroMrEVbYqj5/chSv+b46HzpfW0FOXkuhONHPOLmdPoeVYJI/0EzpKxT9TAvQT5UGa8RZNWQlweP6lheU7hFir1uB41wyCUC8I7WjkFOpr+BsRPRnqQEFoJKs0n9InOpf2x44Kq2DH3vY2DV26Mpl43yOonmlWa99a4mZl/g7ylujb1drTxwM36yTa+Ugg0cB3QoFo/H4vn7pWkEp05yleH8CYbmrDkInvmS6Sh8OZlQ2pQ6EJA0jHb6JPvGeElAuJR1ayE5j8uepHFxpRQso5WOAS3x4hRXxogtIZW6vSVUoI2EJ/FzA5/s/ol09e8EoU5nRq2Pz0G84Bu+VE=
+    properties :
+     x : 6
+     y : 257
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ChangeNation(_FRENCH_)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SMenu22
+    identifier : 0x20eed83619241b1b
+    internal_properties : CAAAAAgAAABOHV9MzQAjQ33rViloaDLpGa/Q8LEeMhrnqlqwWcFz2wW9QBBiA4cRyLCByA2S/UwvAaa1VQPOPlpqQVX4CwavuY20OQG4rkLatflIoG1PrPf9teLnCGgX/wHVdtf99EjGm4aiLC70EeZ0DL6SidRaoLrrTkVaVgBIBDulemGpPIAv+/e+Ai5pXJehq02U0G6dtBqaH0CMlttWh0BPzlzKbCFXrn3B8UJeN4SER2bKjdiRGNiQr76sikXfCLhnO9Qj2k4/9L6l/+sfbebdhpwdtHIp9cwi/uJKOj9XWCEwYzua3rLVD9zZDzlbxSAVuQJXiyJ8yjjrsn9rQFo4yuiKWEs3j/vuqd3Ri6eAXUMR9ts4LDxVh04tZtE3jXwaefYq1nBq0vyXJ7H45PcRLsB0LDkPfHTvxoPF2B/61hrYzd/E/hC7HEhl0a5e+T+OSv0Ny4+vNS+L7lRSFjVBt+3/p6/nvUaLQpeLnPvT/jF3zR+knUcVbtNisbQZ8cpXastU7DmzNVB9lb1k5MLy+xXcAIoA/J72zGXNUcaJGzamzqV6IkwHWTY7tEM9y+L8eLG/dEsC/Ske8W9SEIMU9oZvmy8j00dMEuQZ2l2/5IfA0wket8cKP85wuxzzvUWEx391L3RjKMxQ2cuHXS6LDFZIGxRJsq7o3ka2x5ojUY6aAAii4ldapAmaxJ5D5kBgBijPHUq4u+Si/s2NxQT+2QqmZ+QeTKXesjLnQXZLOjm5VpRGeU1UftZe0cSM8+mMbt8zRN3sz8nYlL3R3MRKP5szXngOVb4bEalAwGxO774ZEh+6/ruOPbe7hIWkQhVOYF96Y8u/on33CghqrwgsuqNYL0WwKf5wjQFYGgTb2FFbttgHJYfuL01V0inCGYbc1Omc76ZGgZgKyW74dF9nADB5d6n0y+moLIRKPvP1tzdgVBJKJnEb7/Psc5x1aZ6Wmeu1Nr9F6bPN54gr4KdIwjDivoyUOF2Dci/YXpbk9cxfeuq/GG+SFZWknL4nPYdXZJTcShX8mrQ5083+lX+QMhXCJ7LrR5uzhKMndwR+d6sKede7UvgcKxXM4LPvqd361r8aB/gRnmIINe1FPPlnzbo0yg4nPAXPqIrA6hredrPyl0Ji6l4trwaIIG+EXBUY249tZDfSOa11qXjiAVC8A4HVDEGw62exSU5bfm1e9WJMuytDTXL3ix/ydpCamQJwYxBTsbhNA8fZYXYoiddGzEzTCkbzXgXpFCWh1Uq0QVkRMSWfZaiwu4WwQkRWsuzRLgWiwghAwh4svXjvBN2/SO9sX/bACwkw6zi8w7ngiMYz9MisM89mL++/N0POjstfcRc5gPElli9l8dTapAP+5xb7OZ7GIrxqNyIJnLZG3Jjj0w4+zA==
+    properties :
+     x : 6
+     y : 287
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         ChangeNation(_ENGLISH_)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Exit
+    identifier : 0x20eed83619251b1b
+    internal_properties : CAAAAAgAAADVZ4v2S0DH0wgtV+hZPpETPayb+PRHCXujFqx6g6e7tlRb+CPmIBTuoCV7mQz2xCQLOFaruewlN5uHU79OwUxjhuY1mj36XDd35vrSaEOUBQ7JWLvGEHl7JoA4rKi71TJjRsCwO8EHLtUihIGEyN8I2vI2FtJRuEFDyFa0VqAa84pm9YCn3n1oh7Mb9W4ypDGG9szIypygd7XPCbBhwTw3qeRlKFMCjAX999NfzLx2XmaYv28Hgbu/IhehcIq9StPAN//3alFWtRy2K/4pEpRU6xv3YIlcSRocKDgag+5qZ2FEL25ERhkNIDqMHEarlxV1v6ZuqOhfp+e6CIp1Wkz/2yMOvM4iTxxiIEjBpdkDYCGW+zMo1evVoLaVIME4ChTWty/5MVuk+tP6RdrU5VtHfZeOlx66Y4D5DePNreZAChWGAdnuDjhJw1VwgfsB8VU8ixnT3cN5xKSoLsKr+hH2B+MRhegvErlqnd6c9ruVySMHKmXSTr7/zdmn8AHOPI6gc3djSSavKF06GIGgZHe/Yl54AzmwwWME8Y5pDYGm995n/3EHcUAYG4k3H0/Siha6JFCyRkPlv0nLpquJAvYi65AqkJdjAsMqd3yWkZtkgr0OM00PlG+gK+Uo3ieD/rj1aNVIGvLZKu/V/YCsWc6EGeBEmxsFv7nj7T6tIGE7XCqe2Y5Ghk3evbUHiDiXX3F3pz4lRRD2hIRCMtxKPn7D81OisFwchuQEtjEj5zSGiEBFVO9KWkDMd4LY1lkAlsxnSakOfb39KGasCA+GVKqprfbsuT4BMmBYYiw8dopQ6GUdEw975BamkshsPvwGRYgzjyVmHOXvL1jeTFxptASULHXVsjAI6/aHbqAssWMBRGcHUKM4R7jTUFi0lzbvV9lEDegmKCX44YGBgetRx5xQmPj+8yswaqxq8XqMTZttp6cvBbaoQdEeCVBdP0DZaRneOH3/SaKHoirFCYTU468tY4k0Sfb+jCfz+SdRaBcEo51DNn1g+Mx1B04P4oVm7C+OKPC1neg28r8CH9rvsBlopd2UrKMGUFBAchHl8MGM3fvwc8teVFeJpb8B9sT+gt095z/9Vtd68MgctnseAUS3FpI7TyBulGOrFqJihz3R2vRqPdiuYzT/7kppLBTrjD9gFEWtaeJDZo1N6fbbEX4RViQSDo8P4rcV5F5UYdVmYd1Icapl0+2DZvgYtA2+hP+OiWywNxa6NdBU8+epUcIeKSw955uq+XNB6gemIF+kX4wb5xkf3WPXH0r72is71nwSV/VCb8yMDzczrG6ffld/SMcJK2arVTdwqML4pBlpGQKzLL6VjV9x3k5nVb5+LdOaO3uCAQzmxmXFtUr7slQbU1pSEslt/nBYX5dT1BH811mHKR6+LtLpa1DBTQebfnV7qmoPwAN7nd06R/0ELMwlRxrOjd41tSHpge4mUdfCSLC4yAyMlaynNMTpLj35Tc2JpIbpGepRKQ2G3MFPOHuwKerO+jZrovZoVT7cIKtMfMBE
+    properties :
+     x : 6
+     y : 317
+     width : 88
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         IF YesNo(<§$0006§>) THEN
+         	Close
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_LANG
+    identifier : 0x20eed83619261b1b
+    internal_properties : CAAAAAgAAACz6vBxlo60PT/+OykMZoTnmLn9TZh+5Ty+yLo2nAhKFR0f+jpGV5+bhaLWrGgiDpbYDaA6CebkyrRs5hHNPMZpLtmK4InJEyBdgmgGnvH0hzoUcH2cNq6NsYzx5lmtNscK63Lvcjny9+TavIKgvjTyG0ID4NWdhjdH3Uq0yPrS0M+APvIhDpdWAZcwSH3vKIfs0gHlNKDeIn7rrz1wWIREoN/Den+ZXpqgEBasAykPpK3/WZJ57Zyvkw03dqiFDUueh8dFhwCMy0ZTSRnyaMIngvlIs03vUnPyG0nOI0lLHUnZhRcsftfRYQtp5Mrno6e2iHSIcDVN9EX/9MVlAKvNIrd6pA2p8oAET6JS7OIAEM9e3VlPeXNQ2/0GpIIy3G3RbY7PgBmcrvTGpGTZs39G+erxbcIG/xD9VrwkxB72IzMabHOaeO1uQD/u5tyPc1mTHt1JcZgW4enAmDBEYeClCbWbbeOobV5kkALIhghmDhu2RGef8fX8k+bXj0HjGJ1mPwFC453wFhha0HeppEaRM/qeD2iVlC57NJepnZCZhXdF+3CgTW1lxze4v7q6KfD2/Vg4UcizFAQ5d3oOia5eIZTb399b5nh8TNxcZoER6SMRZE8hbAGfxoXPsMdTBySY21qM1YWly9iwo3Co7ECFtrlzji2do8eVJGHLosPSbuv9BUPM4IGFvKdkoT+ZZ+47u1q+QOaQfJ0qeBU62lSHLSU+ZSROnHvN+dIOl3W8vw==
+    properties :
+     x : 434
+     y : 347
+     width : 29
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : STC_Title
+    identifier : 0x20eed83619271b1b
+    internal_properties : CAAAAAgAAAAGJ9fcs9vQ4BE3fgTmcIeHYm9rkIhoLrIimKXcgMc1E140YkI49SyikzC8+nyDwXwahbplpROeILknBnTNZn0DmKeH7G6Fb5JQnXPRm8OfrjV0NIBZ4LtDGSJhfWQEe5apoHcL/zwqqQuLI+GdzM73hVK0Oc8iC1k11k1VmdEdZJKfb/dfEjMtVmLDM97qefmV39d0LjzdtiZdPablRjFJwMjaMhbMqVt2VihQb1VQmJe8RfSWlaueR3YZFebhog0y7SuKcw/4cu1a+RJhi7htuh6Eq3y6jwzKTKX9RuAw6d9w6aom1zCwPQn3uo82S0XNVtaOyn64OJ5GAw66aFiLbX4FvmEVKLU2ZA7MoLnm5s+EUMSoIvaK2PIX50rnDvanQQvhLylvHhdW7PW9pcvuv816imDsKz4lbJocMJRjrEyUcuulWZXewvWmllNROHVCZtJolFKCTaiyNTRRDT7jeJYSEuM1w2lkYy2PDUcBu/pMS64c/QNTvjuRLXCD4FOvX3E7JGuMKS8G7x94OswC+sw6lymuWDF0sFq4D/qWD/vg6wtasm58FwJufsOcwtyvFtpVh2DMjGw9vXqIt3t8gPTp4JRfdV9mH7Vd3iu+mGL9jgZmB9fO8S1pbmJJAgw/fd26xMMz6svHMOIOzyGMVMF2SGq1tU/jq09gQNLcVjgz3tgaWp5f6sySfpCWt8a+XPRYlUdubC+JSjjEcFFLyvlxmculknuqZ8AwMW9IbwZ50CNA3L2SquJrhibDiVgfd7aeQrGq+raqbANu64r0uXCNbNqahgU75ev0mFAVmXbp1z/IFfLZpEw=
+    properties :
+     x : 6
+     y : 6
+     width : 457
+     height : 68
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : STC_TEXTAREA
+    identifier : 0x20eed83619281b1b
+    internal_properties : CAAAAAgAAADMDupV4nMsrd2BdyfWJN0EVa4d4+0fHWbUn4WXFSrwbTgO7wZifrj++YjKTjUUGe2vhM+MQyEgoPjVYIvDPfGYJwjQBmo+/u9iotRz88qtBEb/ikfgrqtA+KQpLScsW0BH+B8CGw+dx2SZHlqrjZehQf5IhcZzce4ZUCOSJDX1LBU2A5L3Dn5xKn+3jGwv74fq+2DAFLSowN0mUrGCbpxqU7/FuhYTND0vpNWhcP7Rc02BGXJhAF9SGNL/Tv82U4naFXx4896Ub0GnT/ZNosmsbVQiH7mzSARIYJ+MDM/HeeH/uZcwNuzWMMCY8gQznYlWjXhZkZnyJOOxl3l0uAJNs+et1wElfOw15Gke8oAG6wn/b6ESPILn+TtQz2lXaunZsO/V5lKrilmnaK7na6kYgZ0Fal44le792wSI5JWVfhiW5k4cWL0Xncwm6hzrHS4+eIDCco9T1+jLqtmr4Qs0FHKa+JEds0DaGZGC7EC77vuyrKKV54MilX882voYiTL7/2cLiGIHnibJVV6dkNC/bxnVXz9Uw+U1buevF2sbhVUvSPAUXQ2FweUGMyh7zgz2v47VE55WX4SVKiEvL3FqoPSbZqbXESTVt7Zbck1qNaDkmmUEo/UqfFaPndiKKSb5xwFk/5X9s7YuUGCPPdgL2EdgJcBI+pJQO8YG774Rbkq0Hw61UVgnu1EyUN2xMBZfTobdNlq/Qg==
+    properties :
+     x : 100
+     y : 77
+     width : 363
+     height : 264
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x24a126dde9ef1c3f
+  internal_properties : CAAAAAgAAABj50bam+HanoYJb5ITPSayarsDFzj1ZQESGcBwNGgD5V+OmfWHgTBoAVnVHtZzlkbmaWBEPSkD1T9cILvWwfOahVouXjSfqan7yT5p6fcHJdJGdlcQCSy4lNHh64Yk4APC3nyv64NZs1UjQWPhzUpgKab94OK1vexarKDAqgm/ULpBW/RsZafv+wxYsL5taIWrRPmFLfrQliNDMq5LE0pobUZfgtz9dq2FG2gKWaNaREASdSCUJuABCsD9FZd2xt3HRzzDtZkHoXm2/gsii+mYcPm0kvDkMxKz3ysJXS80+l3RK4Jnk04gTOXHMzlWYUp1UPTOkqyKm6zwC8QsZlznyVHJ3XpD+qdpsK0czdu3FULbvC85SBXxfXQRTvnBWtD3iN2SH0HoD47ySGDNus6Nig9djXTc2ynmLeMcRhAFE5Wk4kh8jJdTxXFzYJV4L2W4MpOUsfcJgvfaNhnvM022NYvR1VFKt+2ZgQ==
+  options : []
+ languages :
+  - fr-FR
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABBeTmYv0wwjfnwDE6YOS1oytRiHn+2CU+c8m9t5sP6CbOz70AUgxeo6hVWo6AoNbp3dNPz2TMxyuW22Ixt0OTNZhShYaUeykzZRA++aU5tMcWV0OIXoNEoEE3/odH0
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADBU91inTZuqPRRNwUtUn0JSzC8wtrlIrsd2zSBnByOs4uYcZgu02148KnRdr0MRiRtV7Vq6oa8NVixJ2muR/bltyBatCevgvn/gfrc8IzHKhed2STqTfKS/l2/mOydClKT0rq+lEIX36o+qRaFF3LUk7Q1jVdyvAnxhDFy/bRvb8RuHbInNvIQ0jwrmIIX4pjWt/eeXD+puysYzuWuLaEwsNg53c6ITPNTxVYLUyASvoNTX4qRcA84Tk6Cu2Ow7NiTpr/gRgysZEkBzP8GuLDuwabhXgzeXpDwb+heZlE+6mc+JiaTCg+vwYFELUqxz2R1YCgtXwlrEskRtZDhvE2HFVPxo72lcWn6YNk1Ny+LFxK2+6/Vm+9VRQIUfRBq/spd92Xp0mKKsHOKQLhI/eN26E50t1mmtxvYhFzPgp4RGvAm/BCFdeVmNwN+kTqH0DeZjXGH/5Vgp5JZXGHFxZAo+4OEr4r82Fc4uX3y1KEUbDB9RT6vHa96nir3A1H9q94EClceUpm8vXQcXS7jSNrF1Z98p2GL1l7binARSyt+vaJ3sye2gG5wrXrgP8oXx589cuWpzji7Xu5FfBqRsyvM1N6LWJtaB3XVPJDI0GyKPo74seNoatWcownOrD8/6gQ9r4mpXngVO7SwnnUnHuqlutn53IRbbG9aMRtV8PzYLWe4xuKJmuR8jat1x7eyj+wUJqbEKpVQI2ArtlcTEGbiuxFmX9YV5MCb03XM5az5u1NUorc0EqMnu0StWAPIpd4yC4oqXwYh0NqvSGmW9HHSfJLDO8u/MkW9lUVuJspTyB/sIhBk2IJ8G7Ldrk+l5ZMMYurOvPOgHKNWhRQsxl3woC2qU8/f9OMeGxNsD4Dfd5i7HKa6B2zzILCy/CY2TyLNVtLoEQ72WDhjAv8+3y54nEz9N2+tt0essNtiraLGJiRmaHHnIQK2Mgo4khX113sZBcjQcGdh71gtMkljLq8D5pLITWyAFMXw830qL0NvSFg7lZSLuGrChXAv8c/61nxW1far4VVVOP5b2s1p3FkxmtLvBh1aS4niweWRJf/VC5XEMB2bMckgTSH3W8vRBUxPtoSRm8vrUsLr5KWquYVCle0tpn+J3zdZWUsMg52wN9jtknfcro5ae14qgmiLBcNo+2kJan3Cdhd0nETa4K+tv3jLrOw1pHrF6A3BbjCrh6odAKTh5w77fzF460F3Vcrhr5gy3wfxO5FDpNZ0/40xZvba4ZTcYByv2sApv8fx89crUsiXfQenLVSMIqGqtJXlUHMZEbkK8v9nDgIzPkJLYg4mX4bhtqx9lCsFSf/k9sl/lTY0p6AURvLDA9xhH/qN4ZkqX23K
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADpy/w3L+1SVpFqZ+hMR6Y/UYsOzEY3p4uJMCtG6PUpKXv2uLhlAtVhkrlvNuzSqzxhnHi0xtrJbT3kx/j1+5e7Uvorvh6DK23HuaGv01V5CZjyy+KnRt3cl8/Uj7TUZJfmsqZcGz4IrKI01Y4=
+     code : |1+
+      GLOBAL
+      
+      Menu 			is object cList(“Un menu dynamique/a dynamic menu”)
+      btn 			is object cButton dynamic
+      
+      // Baide est le premier bouton
+      
+      gnInitXPos	 	is int = BTN_Help..X
+      gnInitYPos 		is int = BTN_Help..Y
+      gnIncrementY 	is int = BTN_Help..Height + 5
+      
+      MenuStatus 		is string = “00”
+   -
+     internal_properties : CAAAAAgAAAAhHTYbxrE/mW63SaYXN796mLDGQ+OYFAICjcxbH0Nq5PBzX3pGeqIC+Mr0m33voemuY6E/6KtsipBJPOgtCrQCnj8dF8wpR9xQ4BVnYO8s3qVXytAYPEa08kEGOyUDYfiIqT5atNIl0wzcNeF+51ynaizr2rz70NnlXPSIFyiQRhNprFWjXb3NsY+Qr8tCnWWeOCWVHZzsUUwk9ighqVradpLLFewpyghkNfTSTQZ/T179hbQ0f40kzlEiyM6IhSSCCBTT
+     code : |1+
+      
+      
+      btn = new cButton(BTN_Help..Name,“Aide”,“Help”,0)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_Menu1..Name,“Principe”,“Principle”,1)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_SMenu11..Name,“Les classes”,“Classes”,-1)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_SMenu12..Name,“Constructeur”,“Constructor”,-1)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_SMenu13..Name,“Destructeur”,“Destructor”,-1)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_Menu2..Name,“Langue”,“Language”,2)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_SMenu21..Name,“Français”,“French”,-2)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_SMenu22..Name,“Anglais”,“English”,-2)
+      Menu:AddNode(btn)
+      
+      btn = new cButton(BTN_Exit..Name,“Quitter”,“Exit”,0)
+      Menu:AddNode(btn)
+      
+      // état initial - initial status
+      MenuStatus = “00”
+      ClickMenu(0)
+      
+      STC_TEXTAREA..Caption = “In this example, the buttons found in the left part of the screen”+CR+“are used to create a Sidebar menu.”+CR+“”+CR+“”+CR+“”
+      STC_TEXTAREA..Note = 2008
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : ChangeNation
+     internal_properties : CAAAAAgAAAAAgAB7uhKrR5tUAvlHKVHRPQkJpJC2jkZrfmk9neOKpZW7GWPWX0Ek2NW6hAor3BjloU6Cz+MkHbYPDnhC3lSuyA3O0uZgkPopC/OUNkPZSXBCZ5aHmzTikumhFGAjuF70qkb9dEQXP1tBoMIWoKCD7NNsOBww+KhF2XS7ZWMsb7OD7H7tuIsG7qMCBSxu+QNpY7PUfVw/nIkw0+9ZpNBSKKnSflGID5W3wn8uVxPR37jMv7oOnrdBKdOlnfeyqxAD
+     procedure_id : 1220150275525057307
+     type_code : 14
+     code : |1+
+      Procedure ChangeNation(Nation_Num)
+      IF Nation_Num <> Nation() THEN
+      	Nation(Nation_Num)
+      	// Titre de la fenêtre - window title
+      	MyWindow..Title = <§$0007§>
+      	// Change le texte des libellés - Changes the text of captions
+      	STC_LANG..Caption = <§$0000§>
+      	STC_Title..Caption = <§$0001§>
+      	// Change le texte central - Changes the main text
+      	STC_TEXTAREA..Caption = MessTranslate(Val(STC_TEXTAREA..Note))
+      	// Change les libellés des boutons - change button captions
+      	ChangeButtonCap(Nation_Num)
+      END
+      
+     type : 458752
+   -
+     name : ClickMenu
+     internal_properties : CAAAAAgAAAAiqZNB96UvNtn2I1Ex263lDvQ241z22a2cDA+YsawHDSNABcmnNw55cCPn2WeTEMEocNj7Qq4o0Bl8LUFfsLBOcA5oXB0bGyc7msEoJXR1fe8XvFUKECmelFruFaxrRxNOI13K3VdcqlIVAVgFQ42CBrrvT9aZNVSdHZ7CV52M0KJqB6OIUnOO+j2+DtIxg2qY+BSYc8hq8oo3xUEGUAFlJs/SYgLI7CMpwdMOIACIaLxcAFq535JPCCbCedjx3fzuRJ0MwaCRLDLMsOpTGUF4aH3qla+hjjR1vOOo+WmeatgktOeEWPnmCujOFDH8qQA8K3UZ6uJ26yyLFX4/kCWc+z3EtTcT/Npy3WDtmWTZyWiXLq6H+sHT95k0qgeVxNdFsz5d0UCbXilTkEpHW4Esd93sJx2Zf0zIJFo9RkrSpm5ad2REdEUoOryJ5YNjFpTrB4gUAIYL4epG
+     procedure_id : 1220150275525122843
+     type_code : 14
+     code : |1+
+      Procedure ClickMenu(num)
+      // num = 0 	displays the menu in its current status
+      // num = 0 	displays the menu in its current status
+      // num > 0 	modifies the status of the menu...
+      //			and displays the menu with the sub-menu opened or closed according to the value of menustatus
+      // num > 0 	modifies the status of the menu...
+      // 			and displays the menu with the submenu opened or closed according to the value of menustatus
+      
+      // variables locales - local variables
+      nActiveNation is int = Nation
+      previouslyActiveMenu is int
+      newActiveMenu is int
+      previouslyActiveMenu = Position(MenuStatus, “1”)
+      currentXPos is int
+      currentYPos is int
+      MenuSize is int = Length(MenuStatus)
+      
+      // MenuStatus is modified
+      // MenuStatus is modified
+      
+      IF num > 0 THEN
+      	IF previouslyActiveMenu = num THEN
+      		// juste une RAZ du menu
+      		// reset the menu
+      		MenuStatus = RepeatString(“0”, MenuSize)
+      	ELSE
+      		// disables the previous menu
+      		// disables the previous menu
+      		IF previouslyActiveMenu > 0 THEN
+      			MenuStatus = Left(MenuStatus, previouslyActiveMenu - 1) + “0”
+      		END
+      		MenuStatus += Right(MenuStatus, MenuSize - previouslyActiveMenu)
+      		// activate le nouveau menu
+      		// enables the new menu
+      		MenuStatus = Left(MenuStatus, num - 1) + “1”
+      		MenuStatus += Right(MenuStatus, MenuSize - num)
+      	END
+      END
+      
+      // Affiche les boutons en fonction de MenuStatus
+      // Displays the buttons according to MenuStatus
+      
+      // Tous les boutons invisibles
+      // All the buttons are made invisible
+      Obj is object cNode dynamic
+      Bt is object cButton dynamic
+      Obj = Menu:m_clFirstNode
+      
+      IF Obj <> Null THEN
+      	Bt = Obj:m_pcldataNode
+      	{Bt:m_sNameOfControl,indControl}..Visible = False
+      	WHILE Obj:m_pclnextNode <> Null
+      		Obj = Obj:m_pclnextNode	
+      		Bt = Obj:m_pcldataNode
+      		{Bt:m_sNameOfControl,indControl}..Visible = False
+      	END
+      END
+      
+      // Place les boutons et les rend visibles
+      // en fonction de MenuStatus
+      // Positions the buttons and makes them visible
+      // according to menustatus
+      
+      newActiveMenu = Position(MenuStatus, “1”)
+      
+      Obj = Menu:m_clFirstNode
+      
+      IF Obj <> Null THEN
+      	Bt = Obj:m_pcldataNode
+      	// The first button is always visible
+      	// The first button is always visible
+      	{Bt:m_sNameOfControl,indControl}..Visible = True
+      	currentXPos = gnInitXPos
+      	currentYPos = gnInitYPos
+      	
+      	WHILE Obj:m_pclnextNode <> Null
+      		Obj = Obj:m_pclnextNode	
+      		Bt = Obj:m_pcldataNode
+      		IF Bt:m_nButtonType >= 0 THEN
+      			// This button is displayed at a new position
+      			// This button is displayed at a new position
+      			currentYPos += gnIncrementY
+      			{Bt:m_sNameOfControl,indControl}..X = currentXPos
+      			{Bt:m_sNameOfControl,indControl}..Y = currentYPos
+      			{Bt:m_sNameOfControl,indControl}..Visible = True
+      		ELSE
+      			IF newActiveMenu > 0 THEN
+      				IF Abs(Bt:m_nButtonType) = newActiveMenu THEN
+      					currentYPos += gnIncrementY
+      					{Bt:m_sNameOfControl,indControl}..X = currentXPos
+      					{Bt:m_sNameOfControl,indControl}..Y = currentYPos
+      					{Bt:m_sNameOfControl,indControl}..Visible = True
+      				END
+      			END
+      		END
+      	END // tant que - while
+      END
+     type : 458752
+   -
+     name : ChangeButtonCap
+     internal_properties : CAAAAAgAAABGSP5T6NpfiT/MfHS7PIN/XACDCiLR+/W57F7zW4VQPGhJLf4mJauvt1lz/JkWhFblnHQZtzDxm5p0S44JPCx+g0El/WCpZK2lKpzYOsmxR7nrQgJpIBTwEwQxJk3U2WdE1r4kEOnsWP3EcZmsRvKeFqmuAb6fPyVLtKl+pYv0PGnuZ/O7EpbEG4zUJ6JIT68+L+bnXw==
+     procedure_id : 1220150275525188379
+     type_code : 14
+     code : |1+
+      Procedure ChangeButtonCap(nNation)
+      // Tous les boutons sont rendus invisibles
+      // All the buttons are made invisible
+      Obj is object cNode dynamic
+      Bt is object cButton dynamic
+      Obj = Menu:m_clFirstNode
+      
+      IF Obj <> Null THEN
+      	Bt = Obj:m_pcldataNode
+      	IF nNation = _FRENCH_ THEN 
+      		{Bt:m_sNameOfControl,indControl}..Caption = Bt:m_sCaptionFR
+      	ELSE
+      		{Bt:m_sNameOfControl,indControl}..Caption = Bt:m_sCaptionUS
+      	END
+      	WHILE Obj:m_pclnextNode <> Null
+      		Obj = Obj:m_pclnextNode	
+      		Bt = Obj:m_pcldataNode
+      		IF nNation = _FRENCH_ THEN 
+      			{Bt:m_sNameOfControl,indControl}..Caption = Bt:m_sCaptionFR
+      		ELSE
+      			{Bt:m_sNameOfControl,indControl}..Caption = Bt:m_sCaptionUS
+      		END
+      	END
+      END
+      
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  integrate_compiled_code : true
+  original_name : main
+resources :
+ string_res :
+  identifier : 0x401e3c62698353f5
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : US
+      fr-FR : FR
+     index : 0
+   -
+     text :
+      en-GB : Example of chained list
+      fr-FR : Exemple de liste chaînée
+     index : 1
+   -
+     text :
+      en-GB : "A chained list can be used in different ways.\r\nIn this example, it is used to store \r\nthe name of the buttons in order to modify them and \r\nto erase them, via a dynamic menu.\r\n\r\nClick [Principle]\r\nA sub-menu containing buttons\r\nis expanded...\r\nClick again, the sub-menu\r\ndisappears."
+      fr-FR : "Une liste chaînée peut avoir bien des usages.\r\nDans cet exemple, elle est utilisée pour mémoriser \r\nle nom des boutons afin de pouvoir les modifier et \r\nles effacer, créant ainsi un menu dynamique.\r\n\r\nCliquez sur le bouton [Principe]\r\nUn sous-menu composé de boutons\r\nse déroule ...\r\nCliquez à nouveau, le sous-menu\r\ndisparaît."
+     index : 2
+   -
+     text :
+      en-GB : "A chained list contains a head and a tail. \r\nThe cList class defines the head of the list. The cNode class\r\nstores the tail of the list. \r\nThe information specific to each element is \r\ngrouped in a third class\r\nthat depends on the process to \r\nperform.\r\n"
+      fr-FR : "Une liste chaînée est composée d'une tête et d'une queue. \r\nLa classe cList définit la tête de la liste. La classe cNode\r\nstocke la queue de la liste. \r\nLes informations propres à chaque élément sont \r\nregroupées dans une troisième classe\r\nqui dépend du traitement à \r\nréaliser.\r\n"
+     index : 3
+   -
+     text :
+      en-GB : "The cList class and the cButton class are used to \r\nbuild our dynamic menu. \r\nThe cNode class is not \r\nused directly.\r\n\r\nTo build the list, you must call \r\nthe AddNode method and\r\nspecify a new \r\ncButton object. "
+      fr-FR : "Pour construire notre menu dynamique, nous utilisons \r\nuniquement la classe cList et la classe cBouton. \r\nLa classe cNode n'est pas \r\nmanipulée directement.\r\n\r\nConstruire la liste consiste à appeler \r\nla méthode AddNode en lui\r\nfournissant un nouvel \r\nobjet cBouton. "
+     index : 4
+   -
+     text :
+      en-GB : "Destroying the allocated resources is a necessary task\r\nthat can sometimes be laborious. \r\n\r\nEverything is automatic in our example.\r\n\r\nA single destructor is required for the \r\ncButton class."
+      fr-FR : "Détruire les ressources allouées est une tâche nécessaire\r\nmais souvent pénible. \r\n\r\nHeureusement ici, tout est réalisé automatiquement.\r\n\r\nSeul un destructeur pour la classe \r\ncBouton est requis."
+     index : 5
+   -
+     text :
+      en-GB : "Click YES if you want to exit the program.\r\n\r\n"
+      fr-FR : "Cliquez sur OUI si voulez-vous quitter le programme.\r\n\r\n"
+     index : 6
+   -
+     text :
+      en-GB : Example of chained list
+      fr-FR : Exemple de liste chaînée
+     index : 7
+   -
+     text :
+      en-GB : "In this example, the buttons found in the left part of the screen\r\nare used to create a Sidebar menu.\r\n\r\n\r\n"
+      fr-FR : "Dans cet exemple, les boutons de la partie gauche de l'écran\r\nsont utilisés pour créer un menu de type Sidebar.\r\n\r\n\r\n"
+     index : 8
+   -
+     text : {}
+     index : 9
+   -
+     text :
+      en-GB : Un menu dynamique/a dynamic menu
+      fr-FR : Un menu dynamique/a dynamic menu
+     index : 10
+   -
+     text :
+      en-GB : "00"
+      fr-FR : "00"
+     index : 11
+   -
+     text :
+      en-GB : Help
+      fr-FR : Help
+     index : 12
+   -
+     text :
+      en-GB : Principle
+      fr-FR : Principe
+     index : 13
+   -
+     text :
+      en-GB : Principle
+      fr-FR : Principle
+     index : 14
+   -
+     text :
+      en-GB : The classes
+      fr-FR : Les classes
+     index : 15
+   -
+     text :
+      en-GB : Classes
+      fr-FR : Classes
+     index : 16
+   -
+     text :
+      en-GB : Constructor
+      fr-FR : Constructeur
+     index : 17
+   -
+     text :
+      en-GB : Constructor
+      fr-FR : Constructor
+     index : 18
+   -
+     text :
+      en-GB : Destructor
+      fr-FR : Destructeur
+     index : 19
+   -
+     text :
+      en-GB : Destructor
+      fr-FR : Destructor
+     index : 20
+   -
+     text :
+      en-GB : Language
+      fr-FR : Langue
+     index : 21
+   -
+     text :
+      en-GB : Language
+      fr-FR : Language
+     index : 22
+   -
+     text :
+      en-GB : French
+      fr-FR : Français
+     index : 23
+   -
+     text :
+      en-GB : French
+      fr-FR : Français
+     index : 24
+   -
+     text :
+      en-GB : English
+      fr-FR : Anglais
+     index : 25
+   -
+     text :
+      en-GB : English
+      fr-FR : English
+     index : 26
+   -
+     text :
+      en-GB : Exit
+      fr-FR : Quitter
+     index : 27
+   -
+     text :
+      en-GB : Exit
+      fr-FR : Exit
+     index : 28
+   -
+     text :
+      en-GB : "1"
+      fr-FR : "1"
+     index : 29
+   -
+     text :
+      en-GB : "0"
+      fr-FR : "0"
+     index : 30
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_FEN_WIN_main.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
